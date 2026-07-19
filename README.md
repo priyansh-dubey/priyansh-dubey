@@ -161,7 +161,6 @@ Shunyity Tech Solutions
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyansh-dubey&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
   <img src="https://streak-stats.demolab.com?user=priyansh-dubey&theme=tokyonight&hide_border=true" alt="GitHub streak stats" height="165" />
 </p>
 
