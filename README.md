@@ -10,7 +10,7 @@ Building scalable, production-ready AI applications with modern web technologies
 
 <br>
 
-<a href="https://priyansh-dubey-portfolio.vercel.app">
+<a href="https://priyanshdubey.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/priyanshdubey">
