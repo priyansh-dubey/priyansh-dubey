@@ -180,7 +180,7 @@ Shunyity Tech Solutions
 
 <div align="center">
 
-<a href="https://priyansh-dubey-portfolio.vercel.app">🌐 Portfolio</a> •
+<a href="https://priyanshdubey.vercel.app/">🌐 Portfolio</a> •
 <a href="https://www.linkedin.com/in/priyanshdubey">LinkedIn</a> •
 <a href="mailto:priyanshdubey345@gmail.com">Email</a>
 
